@@ -1,5 +1,5 @@
 //
-//  S597ViewController.h
+//  S597TableViewController.h
 //  Challenge 6: UITableViewController
 //
 //  Created by Chase Bell on 7/30/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface S597ViewController : UIViewController
+@interface S597TableViewController : UITableViewController
 
 @end
